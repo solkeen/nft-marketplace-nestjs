@@ -20,7 +20,7 @@ Welcome to the NestJS NFT Marketplace project! This is a full-stack application 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/sasuke0601/ink-backend
+
    cd nestjs-nft-marketplace
   ```
 2. Install dependencies:
